@@ -48,14 +48,14 @@
         - Unlimited scroll of results
         - Preload 5 results
 - Timings
-    - Post creation
-    - Post removal
-    - Comment creation
-    - Comment removal
-    - Subscribe/unsubscribe
-    - Search
-    - Get feed
-    - Like/unlike post or comment
+    - Post creation < 5 seconds
+    - Post removal < 1 seconds
+    - Comment creation < 3 seconds
+    - Comment removal < 1 seconds
+    - Subscribe/unsubscribe < 1 seconds
+    - Search < 10 seconds
+    - Get feed < 5 seconds
+    - Like/unlike post or comment < 2 seconds
 - Support for mobile devices and browsers
 
 ## Basic calculations
